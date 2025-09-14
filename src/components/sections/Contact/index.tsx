@@ -10,7 +10,7 @@ const Contact = () => {
           </h2>
           <p className="mt-3 sm:mt-4 text-base sm:text-lg text-center text-gray-400  sora max-w-2xl mx-auto">
             Experience the Benefits Firsthand with a Free Personalized Demo.
-            Fill out the form and we will reach out to you.
+            Fill out the form and we will reach out to you. 
           </p>
         </div>
         <div className="bg-[#05081b] border-[1px] border-[#1C244C] rounded-3xl w-full md:w-[85%] lg:w-[65vw] p-6 sm:p-7 md:p-8">
