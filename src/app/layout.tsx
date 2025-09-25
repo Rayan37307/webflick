@@ -11,7 +11,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Webflick - Modern Web Design & Development",
   description:
-    "From custom full-stack solutions to WordPress, Webflow & Shopify—Webflick builds websites that convert. Modern, scalable & creative web design for your business.",
+    "From custom full-stack solutions to WordPress, and Webflow & Shopify—Webflick builds websites that convert. Modern, scalable & creative web design for your business.",
   keywords: [
     "web design",
     "web development",
